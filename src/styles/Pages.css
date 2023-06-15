@@ -14,7 +14,8 @@
     background-color: var(--dark);
 }
 
-.title {
+.title,
+.subTitle {
     color: var(--orng);
 }
 
@@ -127,8 +128,4 @@ button {
 
 .list-item {
     color: var(--tan);
-}
-
-h3 {
-    color: var(--orng);
 }

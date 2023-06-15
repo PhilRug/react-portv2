@@ -30,7 +30,7 @@ function ContactForm() {
       <div className='contactform'>
         <form onSubmit={handleSubmit}>
           <div>
-            <h3>Name</h3>
+            <h3 className='subTitle'>Name</h3>
             <input
               type="text"
               id="name"
@@ -39,7 +39,7 @@ function ContactForm() {
             />
           </div>
           <div>
-            <h3>Email</h3>
+            <h3 className='subTitle'>Email</h3>
             <input
               type="email"
               id="email"
@@ -49,7 +49,7 @@ function ContactForm() {
             {emailError && <p className="error">{emailError}</p>}
           </div>
           <div>
-            <h3>Message</h3>
+            <h3 className='subTitle'>Message</h3>
             <textarea
               id="message"
               value={message}
