@@ -128,3 +128,7 @@ button {
 .list-item {
     color: var(--tan);
 }
+
+h3 {
+    color: var(--orng);
+}
