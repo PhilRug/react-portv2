@@ -40,6 +40,12 @@ function Portfolio(props) {
         href: 'https://enigmatic-garden-18659.herokuapp.com/',
         text: 'This is an app for taking notes. The project uses Node, Express and JavaScript.',
         github: 'https://github.com/PhilRug/note-taker.git'
+      },
+      {
+        alt: 'Robo-art',
+        href: '',
+        text: 'This is an app utilizing text to art AI. The project is a full-stack MERN application which also uses stripe, deep-ai, bcrypt, and JWT.',
+        github: 'https://github.com/CJB14/Robo-art.git'
       }
     ]
   
