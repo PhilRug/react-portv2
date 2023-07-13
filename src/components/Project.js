@@ -43,7 +43,7 @@ function Portfolio(props) {
       },
       {
         alt: 'Robo-art',
-        href: '',
+        href: 'https://robo-art-b0340ce70329.herokuapp.com/',
         text: 'This is an app utilizing text to art AI. The project is a full-stack MERN application which also uses stripe, deep-ai, bcrypt, and JWT.',
         github: 'https://github.com/CJB14/Robo-art.git'
       }
