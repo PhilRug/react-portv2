@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portv2/static/css/main.3d70e3c2.css",
+    "main.js": "/react-portv2/static/js/main.8065ae2e.js",
+    "static/media/6.png": "/react-portv2/static/media/6.f02dd634b8c7215ec56b.png",
+    "static/media/3.png": "/react-portv2/static/media/3.b83bcf447ac9b07f6fa6.png",
+    "static/media/front-page.png": "/react-portv2/static/media/front-page.eb223ee73ce6b9a5107c.png",
+    "static/media/2.png": "/react-portv2/static/media/2.6e9ef2bd7ecc553a8a91.png",
+    "static/media/0.png": "/react-portv2/static/media/0.634cc2ed75c8efab5408.png",
+    "static/media/1.png": "/react-portv2/static/media/1.9ed22f7e155233a2be4f.png",
+    "static/media/4.png": "/react-portv2/static/media/4.71d42ba0e7c455145068.png",
+    "static/media/5.png": "/react-portv2/static/media/5.0dc160a47421dbcf19c6.png",
+    "static/media/Philip_Ruggiero_Resume.pdf": "/react-portv2/static/media/Philip_Ruggiero_Resume.3f053d676276fed1b81f.pdf",
+    "index.html": "/react-portv2/index.html",
+    "main.3d70e3c2.css.map": "/react-portv2/static/css/main.3d70e3c2.css.map",
+    "main.8065ae2e.js.map": "/react-portv2/static/js/main.8065ae2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d70e3c2.css",
+    "static/js/main.8065ae2e.js"
+  ]
+}
